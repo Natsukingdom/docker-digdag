@@ -1,19 +1,23 @@
 # Docker digdag
+
 [![Tags](https://img.shields.io/github/tag/szyn/docker-digdag.svg?style=flat-square)](https://github.com/szyn/docker-digdag/tags)
 [![Docker Build Status](https://img.shields.io/docker/build/szyn/docker-digdag.svg?style=flat-square)](https://hub.docker.com/r/szyn/docker-digdag/builds)
 [![Docker Pulls](https://img.shields.io/docker/pulls/szyn/docker-digdag.svg?style=flat-square)](https://hub.docker.com/r/szyn/docker-digdag)
 
 ### Overview
+
 Docker image for (Dockernize) digdag.  
 [digdag](http://www.digdag.io/) is a workflow engine.  
 If you want to know about digdag more, please read the [Official Document](https://docs.digdag.io/).
 
 #### Feature
-* Easy to use :)
-* Can use `py>` `rb>` Operators
+
+- Easy to use :)
+- Can use `py>` `rb>` Operators
 
 ### Requirements
-* Docker for Mac / Windows
+
+- Docker for Mac / Windows
 
 ### Usage
 
