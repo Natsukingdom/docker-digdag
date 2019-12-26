@@ -2,7 +2,7 @@ version: '3.7'
 services:
   digdag_server:
     restart: always
-    image: szyn/docker-digdag:latest
+    build: .
     ports:
       - "65432:65432"
     depends_on:
